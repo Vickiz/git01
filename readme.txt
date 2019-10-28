@@ -11,7 +11,7 @@
 \f0\fs24 \cf2 \cb3 \expnd0\expndtw0\kerning0
 Git 
 \b \cf4 is
-\b0 \cf2  a version control system.\
+\b0 \cf2  00000.\
 Git 
 \b \cf4 is
 \b0 \cf2  free software.}
